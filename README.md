@@ -1,5 +1,4 @@
-# Transmission constraints and market power abuse
-
+# Competitive effects of transmission constraints in the German electricity market
 The code and data contained in this repository replicates the analysis in
 
 > Xu, A. L., Stiewe, C., 2026: Transmission constraints and market power abuse.
