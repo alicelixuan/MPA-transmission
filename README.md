@@ -1,14 +1,14 @@
 # Competitive effects of transmission constraints in the German electricity market
 The code and data contained in this repository replicates the analysis in
 
-> Xu, A. L., Stiewe, C., 2026: Transmission constraints and market power abuse.
+> Xu, A. L., Stiewe, C., 2026: Competitive effects of transmission constraints in the German electricity market.
 
 
 
 ## Repo structure
 
-* `Data`: contains preprocessed data
-* `Analysis`: contains a Jupyter notebook file to run the econometric analysis
+* `data`: contains preprocessed data
+* `code`: contains a Jupyter notebook file to run the econometric analysis
 
 ## License
 
